@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 2732161682
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: af727d0b53fe270a98e1579c0c0521de
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3e4f288adb45b5a836c32a7f6d5c8ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d81bea5ff91cc4ab1bb7e9eb93bc8327, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+Assets:
+- Assets/Res/Timeline/Cube_Timeline.playable
+- Assets/Res/Timeline/Cube.prefab
+Dependencies: []
