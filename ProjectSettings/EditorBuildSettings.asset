@@ -6,5 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Test/TimelineAssetBundle.unity
+    path: Assets/TimelineAssetBundle.unity
     guid: be2c1b3784f03644cb8ad21b1b78e914
+  m_configObjects: {}
