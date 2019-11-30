@@ -1,5 +1,3 @@
 <linker>
-<!--
        <assembly fullname="Unity.Timeline" preserve="all"/>
--->
 </linker>
