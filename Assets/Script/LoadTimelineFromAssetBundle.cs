@@ -5,7 +5,6 @@ using UnityEngine.Timeline;
 
 public class LoadTimelineFromAssetBundle : MonoBehaviour
 {
-	private AnimationTrack m_animTrack;
     void OnGUI()
 	{
 		if(GUI.Button(new Rect(100, 100, 100, 100), "Load UI"))
